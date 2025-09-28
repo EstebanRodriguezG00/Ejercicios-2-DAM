@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<productos>
+    <producto>
+        <nombre>leche</nombre>
+        <precio>1.5</precio>
+    </producto>
+    <producto>
+        <nombre>galletas</nombre>
+        <precio>5.25</precio>
+    </producto>
+</productos>
